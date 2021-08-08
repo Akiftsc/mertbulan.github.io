@@ -57,7 +57,7 @@ There are many websites that list flat ads but I think the most common one is [I
 
 Once you find a flat which fits your requirements, you should send a message as soon as possible for asking for an appointment. If you are going to live in a big city, the competition will be really high so you have to be fast. In the message, would be really helpful if you can introduce yourself shortly. If you have luck, you will get an appointment. Don't surprise if you see more than 20 people when you go for visiting the flat. (you can't rent a flat without visiting, that's the law) If you like the flat, you give your papers then the landlord selects one tenant from the people who gave their papers. Do not send any money to your potential landlord without getting your signed contract.
 
-Once you have your signed contract, do not forget to buy a household insurance. I am using [ONE Insurance](https://www.one-insurance.com/de/en/) since they have English support. You can also buy a liability insurance from them, if you live in Germany you should definitely have these two insurances. I pay around 5€ per month for both.
+Once you have your signed contract, do not forget to buy a household insurance. I am using [GetSafe](https://www.hellogetsafe.com/en-de/referral?n=Mert&r=9EDA-HBFY&s=1) since they have English support. You can also buy a liability insurance from them, if you live in Germany you should definitely have these two insurances. I pay around 10€ per month for both.
 
 ## Garbage separation
 
@@ -96,4 +96,4 @@ All the programs produced by public service broadcasters are in German. There is
 If you want to know about the history of Germany and the culture of Germans, I can suggest two books that I liked to read. The first book is "German Men Sit Down To Pee & Other Insights Into German Culture", it is really fun to read. You can see how Germans behave in some situations. Some people might find it interesting but to be honest, most of the things make sense to me. The second book is about the history of Germany. It is called "Germany: Memories of a Nation". This is a nice book to understand the history of Germany. You don't only read about the wars but you also read about the people who changed the things in their field like Martin Luther and the ideas which changed industries like Bauhaus.
 
 
-*Last updated: 03 May 2020*
+*Last updated: 08 August 2021*
