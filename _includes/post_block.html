@@ -10,7 +10,7 @@
       | reading time: {{ words | divided_by:275 }} min(s)
     {% endif %}
   </span>
-  <h2 class="h1-home lh-condensed col-9 mt-0">
+  <h2 class="h1-home lh-condensed col-10 mt-0">
     <a class="link-primary" title="{{ post.title }}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </h2>
   <p>{{ post.content | strip_html | truncatewords:30 }}</p>
