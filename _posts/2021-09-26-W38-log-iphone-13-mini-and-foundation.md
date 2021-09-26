@@ -13,6 +13,6 @@ category: 'wxx.log'
 - The first two episodes of [Foundation](https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3) TV Series are released on Apple TV+. I read Isaac Asimov's [Foundation series](https://en.wikipedia.org/wiki/Foundation_series) more than 5 years ago and I remember that I enjoyed reading them a lot. I had high expectations for this show and after watching the first two episodes, I wouldn't be surprised if it becomes something big like Game of Thrones. Not only the story but also the production quality is so high. I watched it on my Apple TV in 4K and with my AirPods Pro. I felt like I am watching a movie at a cinema. I highly recommend you to watch if you are into Sci-Fi. If you like the show, you might also like [the offical podcast](https://podcasts.apple.com/de/podcast/foundation-the-official-podcast/id1586219793).
 
 
-_This is a new blog series that I've started to write. Every week, on Sunday, I will write similar post to this one._
+_This is a new blog series that I've started to write. Every week, on Sunday, I will write a similar post to this one._
 
 _If you like this post, come back again next week!_
