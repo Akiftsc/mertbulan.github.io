@@ -1,6 +1,7 @@
 ---
 title: 'Moving to Germany: Things that you need to know'
 image: /uploads/alster.jpg
+category: post
 ---
 
 ![A photograph on a bridge at Alster lake](/uploads/alster.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Learning the history of Germany with Rammstein
 image: /uploads/deutschland/9.png
+category: post
 ---
 One of the best ways to learn a new language is by listening to songs in that language. So I started with Du Hast by Rammstein. Besides the simple and understandable lyrics of the song, the song triggered me to jump into the rabbit hole of Rammstein.
 

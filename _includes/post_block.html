@@ -1,17 +1,18 @@
-<div class="py-2 mb-2 prose">
-  <span class="no-underline h5 bold text-accent">
+<div class="py-2 prose">
+  <span class="no-underline h6 text-accent">
     {% capture date %}{{ post.date }}{% endcapture %}{{ date | date: "%e %B %Y" }}
   </span>
-  <span class="reading-time" title="Estimated read time">
+  {% if post.category == 'post' %}
+  <span class="reading-time h6" title="Estimated read time">
     {% assign words = post.content | number_of_words %}
     {% if words < 360 %}
-      | reading time: 1 mins
+      | 1 min
     {% else %}
-      | reading time: {{ words | divided_by:275 }} min(s)
+      | {{ words | divided_by:360 }} mins
     {% endif %}
   </span>
-  <h2 class="h1-home lh-condensed col-10 mt-0">
+  {% endif %}
+  <h3 class="h1-home lh-condensed mt-0">
     <a class="link-primary" title="{{ post.title }}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </h2>
-  <p>{{ post.content | strip_html | truncatewords:30 }}</p>
+  </h3>
 </div>

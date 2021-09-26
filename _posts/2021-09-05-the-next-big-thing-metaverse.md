@@ -1,6 +1,7 @@
 ---
 title: 'The next big thing: Metaverse, and what we know so far'
 image: /uploads/ready-player-one.jpeg
+category: post
 ---
 
 ![The picture of Ready Player One main character](/uploads/ready-player-one.jpeg)
@@ -54,6 +55,6 @@ I am already getting exciting whenever I read an article about Metaverse. Nobody
 - [Development and Deployment of Multiplayer Online Games, Vol. I: GDD, Authoritative Servers, Communications](https://www.amazon.de/-/en/dp/3903213063/)
 - [Development and Deployment of Multiplayer Online Games, Vol. II: DIY, (Re)Actors, Client Arch., Unity/UE4/ Lumberyard/Urho3D](https://www.amazon.de/dp/3903213160)
 
-> Please, [contact me](http://mertbulan.com/contact/) if you have any other book suggestions about game design!
+> Please, [contact me](mailto:mertbulan@icloud.com) if you have any other book suggestions about game design!
 
 The future is exciting and it is more exciting to create that future!

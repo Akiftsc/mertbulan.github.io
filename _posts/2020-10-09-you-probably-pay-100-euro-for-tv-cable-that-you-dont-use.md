@@ -1,6 +1,7 @@
 ---
 title: "You probably pay around 100€/year for TV Cable that you don't use"
 image: /uploads/tv-cable.jpg
+category: post
 ---
 
 ![A tv cable cord is being cut by a scissor](/uploads/tv-cable.jpg)
