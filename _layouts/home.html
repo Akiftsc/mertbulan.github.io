@@ -25,7 +25,7 @@
         </div>
       </header>
       <div class="mx-auto px-3">
-        <div class="py-4 col-5" style="display:inline-block;vertical-align:top;">
+        <div class="py-4 col-5 home" style="vertical-align:top;">
           <h2>WXX.logs<a class="text-accent" href="/about-me#what-is-this-wxxlog-series">ˀ</a></h2>
           {% for post in paginator.posts %}
             {% if post.category == 'wxx.log' %}
@@ -33,7 +33,7 @@
             {% endif %}
           {% endfor %}
         </div>
-        <div class="py-4 col-6" style="display:inline-block;">
+        <div class="py-4 col-6 home">
           <h2>Blog posts</h2>
           {% for post in paginator.posts %}
             {% if post.category == 'post' %}
