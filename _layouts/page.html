@@ -9,6 +9,6 @@ layout: default
   </div>
   <br/>
   <div class="prose mb-4 py-4">
-    {{ content }}
+    {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
   </div>
 </article>
