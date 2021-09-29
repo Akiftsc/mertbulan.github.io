@@ -14,5 +14,3 @@ category: 'wxx.log'
 
 
 _This is a new blog series that I've started to write. Every week, on Sunday, I will write a similar post to this one._
-
-_If you like this post, come back again next week!_

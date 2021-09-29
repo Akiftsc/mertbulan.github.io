@@ -25,3 +25,5 @@ Let me know what you are thinking about this series by sending an email to me.
 ### How can I follow this blog?
 
 If you want to follow this blog, you can do that by following my [RSS Feed](http://mertbulan.com/feed.xml). If you already don't have an RSS Feed Reader on your computer or smartphone, you can download an RSS reader app and start following not only this blog but also all the other blogs, news websites, and even YouTube channels. I use [Reeder](https://www.reederapp.com) app but if you don't want to pay for it, you can use [Feedly](https://feedly.com) app.
+
+You can also subscribe [my newsletter](https://mailchi.mp/3951089e8c9d/mert-bulans-personal-blog) and receive an email whenever there is a new blog post.
