@@ -2,6 +2,7 @@
 title: 'W38.log: iPhone 13 mini and Foundation'
 image: /uploads/a-photo-shot-iphon-13-mini.jpeg
 category: 'wxx.log'
+date: 2021-10-03 10:10
 ---
 
 ![A bee on a flower](/uploads/a-photo-shot-iphon-13-mini.jpeg)
