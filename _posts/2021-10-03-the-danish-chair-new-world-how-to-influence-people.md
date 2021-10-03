@@ -2,6 +2,7 @@
 title: 'W39.log: The Danish Chair, New World and How to Influence People'
 image: /uploads/the-danish-chair.jpg
 category: 'wxx.log'
+date: 2021-10-03 10:10
 ---
 
 ![Finn Juhl's France Chair](/uploads/the-danish-chair.jpg)
