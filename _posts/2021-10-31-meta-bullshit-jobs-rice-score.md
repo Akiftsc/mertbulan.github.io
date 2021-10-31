@@ -20,7 +20,7 @@ There are probably more reasons for having a new name but these are the ones tha
 
 I do not believe that Facebook is going to be a pioneer in Metaverse area. It doesn't matter how many people are going to work on it ([they are going to hire 10.000 people in Europe](https://www.npr.org/2021/10/18/1047033994/facebook-metaverse-10-000-workers-europe-virtual-reality)) or how much money they are going to spend ([they are going to spend $10 billion this year](https://www.theverge.com/2021/10/25/22745381/facebook-reality-labs-10-billion-metaverse) and it is going to be increased more next year), Facebook is a company that is not able to create something new from the ground. They created News Feed after the acquisition of FriendFeed. Instagram and WhatsApp, the apps that are pushing Facebook's growth and are still popular among young people were also acquisitions. Instagram is still popular because they copied Snapchat's Stories feature. The hardware that showed many times during the event, Oculus, was a result of an acquisition as well.
 
-In a nutshell, by changing their name, Facebook is just trying to stay alive for the next 5-10 years, not aiming for innovating something new.
+In a nutshell, by changing their name, Facebook is just trying to stay alive for the next 5-10 years, not aiming for innovating something new. I don't surprise if they buy [Roblox](https://en.wikipedia.org/wiki/Roblox) to have millions of children and young people instantly for their metaverse platform because that's the only way that they know to enter a new market.
 
 
 ### Bullshit Jobs
