@@ -37,7 +37,7 @@ Normally, during the wintertime, I was just leaving my radiators as it is until 
 
 [This](https://www.amazon.de/gp/product/B00ACMN65C/) helps you to reduce the amount of water flow from the tap. It takes more time to fill a glass but if you wash your dishes with your hands, you spend less water.
 
-## Having two settings for toilet flush
+### Having two settings for toilet flush
 
 It is getting more standard but probably old houses don't have this. In this way, you can save so much water by just using the correct amount of water for your waste.
 
