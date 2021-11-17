@@ -2,7 +2,7 @@
 title: "The problem of knowing your podcast's stats"
 image: /uploads/podcast.jpg
 category: post
-date: 2021-11-16 10:12
+date: 2021-11-17 14:20
 ---
 
 ![Apple HomeKit setup](/uploads/podcast.jpg)
