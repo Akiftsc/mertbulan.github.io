@@ -21,6 +21,8 @@ The fourth reason is a more personal choice but I believe that it makes sense. W
 
 Unfortunately, nowadays, Amazon became a place like AliExpress. You see a lot of products from China and they are mostly low quality and super cheap. So, you are going to throw them after some time. Also, they will come from China so their environmental impact is higher than the products that are made in Germany. (I guess, there is no need to mention the working conditions in China for producing those cheap products)
 
+The last reason is that [Amazon doesn't shame to copy other brands' products](https://www.theverge.com/2021/3/3/22311574/peak-design-video-amazon-copy-everyday-sling-bag) under their Amazon Basics brand and sell them with the similar names. Imagine that you are spending years to design a product and then Amazon just copies your product and list on their website. Sometimes, they even copy the prodcuts that are listed on Amazon and they put their product into the first place in the search results. This is probably one of the biggest reasons why I decided to stop using Amazon.
+
 ### How?
 
 It is not easy to stop using Amazon. Their search engine is so convenient that you can just search for a product and buy it in a few minutes. Amazon also makes sure that the seller is trustable. You can search for a product on Google and try to buy it but you will never know if you are going to get the product that you ordered. So, you always need to make an extra search for the company and see if they are trustable. 
