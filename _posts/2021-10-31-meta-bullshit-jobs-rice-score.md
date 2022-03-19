@@ -1,7 +1,7 @@
 ---
 title: 'W43.log: Meta, Bullshit Jobs and RICE Score'
 image: /uploads/meta-mark.jpeg
-category: 'wxx.log'
+category: 'week.log'
 date: 2021-10-31 10:06
 ---
 

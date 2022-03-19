@@ -32,6 +32,7 @@ highlighter: rouge
 paginate: 50
 paginate_path: '/page/:num/'
 timezone: Europe/Berlin
+include: ["_categories"]
 plugins:
   - jekyll-feed
   - jekyll-sitemap

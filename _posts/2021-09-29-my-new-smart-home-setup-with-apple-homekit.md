@@ -1,7 +1,7 @@
 ---
 title: My new smart home setup with Apple HomeKit
 image: /uploads/apple-homekit-setup.png
-category: post
+category: bests
 date: 2021-09-29 15:12
 ---
 

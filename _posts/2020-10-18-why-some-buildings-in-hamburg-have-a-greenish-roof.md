@@ -1,7 +1,7 @@
 ---
 title: Why some buildings in Hamburg have a greenish roof?
 image: /uploads/hamburg-rathaus.jpeg
-category: post
+category: posts
 ---
 
 ![Picture of Hamburg Rathaus](/uploads/hamburg-rathaus.jpeg)

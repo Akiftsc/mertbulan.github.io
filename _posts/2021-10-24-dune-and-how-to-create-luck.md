@@ -1,7 +1,7 @@
 ---
 title: 'W42.log: Dune and How to Create Luck'
 image: /uploads/dune.jpg
-category: 'wxx.log'
+category: 'week.log'
 date: 2021-10-24 20:43
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: My smart home setup with Raspberry Pi and Home Assistant
 image: /uploads/smart-home-home-assistant.png
-category: post
+category: posts
 ---
 
 ![Home Asistant interface](/uploads/smart-home-home-assistant.png)

@@ -1,7 +1,7 @@
 ---
 title: Is Flaschenpost becoming a monopoly?
 image: /uploads/flaschenpost.png
-category: post
+category: posts
 ---
 
 ![Flashenpost Logo](/uploads/flaschenpost.png)

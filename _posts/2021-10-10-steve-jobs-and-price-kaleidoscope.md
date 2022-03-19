@@ -1,7 +1,7 @@
 ---
 title: 'W40.log: Steve Jobs and Price Kaleidoscope'
 image: /uploads/price-kaleidoscope.png
-category: 'wxx.log'
+category: 'week.log'
 date: 2021-10-10 09:50
 ---
 

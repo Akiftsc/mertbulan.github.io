@@ -1,7 +1,7 @@
 ---
 title: How to stop using Amazon and help small businesses
 image: /uploads/amazon-logo.jpeg
-category: post
+category: posts
 date: 2021-12-04 11:08
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The problem of knowing your podcast's stats"
 image: /uploads/podcast.jpg
-category: post
+category: posts
 date: 2021-11-17 14:20
 ---
 

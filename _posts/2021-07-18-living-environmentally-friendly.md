@@ -1,7 +1,7 @@
 ---
 title: 'Living environmentally friendly: Things that I do'
 image: /uploads/nature-with-bike.jpeg
-category: post
+category: bests
 ---
 
 ![StadtRAD bike in a green place next to a river](/uploads/nature-with-bike.jpeg)

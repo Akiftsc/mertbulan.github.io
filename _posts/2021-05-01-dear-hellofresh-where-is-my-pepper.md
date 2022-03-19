@@ -1,7 +1,7 @@
 ---
 title: Dear HelloFresh, where is my pepper?
 image: /uploads/hello-fresh-pepper.png
-category: post
+category: posts
 ---
 
 ![Hello Fresh Logo](/uploads/hello-fresh-pepper.png)

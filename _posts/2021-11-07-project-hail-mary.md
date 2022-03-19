@@ -1,7 +1,7 @@
 ---
 title: 'W44.log: Project Hail Mary'
 image: /uploads/project-hail-mary.jpg
-category: 'wxx.log'
+category: 'week.log'
 date: 2021-11-07 16:44
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'The next big thing: Metaverse, and what we know so far'
 image: /uploads/ready-player-one.jpeg
-category: post
+category: posts
 ---
 
 ![The picture of Ready Player One main character](/uploads/ready-player-one.jpeg)

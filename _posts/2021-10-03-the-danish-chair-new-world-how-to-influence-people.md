@@ -1,7 +1,7 @@
 ---
 title: 'W39.log: The Danish Chair, New World and How to Influence People'
 image: /uploads/the-danish-chair.jpg
-category: 'wxx.log'
+category: 'week.log'
 date: 2021-10-03 10:10
 ---
 

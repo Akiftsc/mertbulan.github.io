@@ -1,7 +1,7 @@
 ---
 title: 'Paying property tax while being a tenant in Germany'
 image: /uploads/taxes.png
-category: post
+category: posts
 ---
 
 ![A crying kid because of the taxes in Monopoly game](/uploads/taxes.png)

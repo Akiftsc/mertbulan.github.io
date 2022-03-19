@@ -1,7 +1,7 @@
 ---
 title: 'W41.log: Snow Crash and SwiftUI'
 image: /uploads/snow-crash.jpg
-category: 'wxx.log'
+category: 'week.log'
 date: 2021-10-17 13:40
 ---
 

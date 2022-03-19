@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+{% if page.category %}
+  {% assign category = page.category %}
+{% endif %}
+
+<div class="container mx-auto">
+  {% if category == 'posts' %}
+    <h3>Bests</h3>
+    {% for post in site.categories['bests'] %}
+      {% if post.category == 'bests' %}
+        {%- include post_block.html -%}
+      {% endif %}
+    {% endfor %}
+  <h3>Recents</h3>
+  {% endif %}
+  {% for post in site.categories[category] %}
+    {% include post_block.html %}
+  {% endfor %}
+</div>

@@ -1,7 +1,7 @@
 ---
 title: 'W38.log: iPhone 13 mini and Foundation'
 image: /uploads/a-photo-shot-iphon-13-mini.jpeg
-category: 'wxx.log'
+category: 'week.log'
 ---
 
 ![A bee on a flower](/uploads/a-photo-shot-iphon-13-mini.jpeg)

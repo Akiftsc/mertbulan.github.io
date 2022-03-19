@@ -1,7 +1,7 @@
 ---
 title: 'W46.log: Developer Hegemony and Halo Infinite'
 image: /uploads/developer-hegemony.png
-category: 'wxx.log'
+category: 'week.log'
 date: 2021-11-21 17:13
 ---
 
