@@ -1,0 +1,13 @@
+<div style="font-size: 12px; color: #6e6e73; padding-left: 6px">
+  <span >
+    {% capture date %}{{ include.date }}{% endcapture %}{{ date | date: "%e %B %Y" }}
+  </span>
+  <span title="Estimated reading time">
+    {% assign words = include.content | number_of_words %}
+    {% if words < 360 %}
+      | 1 min
+    {% else %}
+      | {{ words | divided_by:360 }} mins
+    {% endif %}
+  </span>
+</div>

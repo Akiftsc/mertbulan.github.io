@@ -19,16 +19,16 @@
 {% endif %}
 
 {% if prev_post %}
-<div class="col-4 sm-width-full left mr-lg-4 mt-3">
-  <a class="no-underline border-top-thin py-1 block" href="{{ prev_post.url | relative_url }}">
-    <p class="bold h3 link-primary mb-1">{{ prev_post.title }}</p>
+<div style="margin-top: 64px; float: left;">
+  <a class="link-primary" style="font-size: 18px; font-weight: 400;" href="{{ prev_post.url | relative_url }}">
+    ← {{ prev_post.title }}
   </a>
 </div>
 {% endif %}
 {% if next_post %}
-<div class="col-4 sm-width-full right mt-3">
-  <a class="no-underline border-top-thin py-1 block" href="{{ next_post.url | relative_url }}">
-    <p class="bold h4 link-primary mb-1">{{ next_post.title }}</p>
+<div style="margin-top: 16px; float: right;">
+  <a class="link-primary" style="font-size: 18px; font-weight: 400;" href="{{ next_post.url | relative_url }}">
+    → {{ next_post.title }}
   </a>
 </div>
 {% endif %}

@@ -1,18 +1,6 @@
-<div class="py-2 prose" >
-  <span class="no-underline h6" style="color: #6e6e73; padding-left: 6px;">
-    {% capture date %}{{ post.date }}{% endcapture %}{{ date | date: "%e %B %Y" }}
-  </span>
-  {% if post.category != 'week.log' %}
-  <span class="reading-time h6" title="Estimated read time" style="color: #6e6e73">
-    {% assign words = post.content | number_of_words %}
-    {% if words < 360 %}
-      | 1 min
-    {% else %}
-      | {{ words | divided_by:360 }} mins
-    {% endif %}
-  </span>
-  {% endif %}
-  <h3 class="h1-home lh-condensed" style="margin-top: 4px;">
+<div style="padding-bottom: 16px; padding-top: 16px;" >
+  {% include meta.html date=post.date content=post.content %}
+  <h3 style="font-size: 24px; margin-top: 0;">
     <a class="link-primary" title="{{ post.title }}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
     {{ post.category_url }}
   </h3>

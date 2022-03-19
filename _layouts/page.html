@@ -1,14 +1,11 @@
 ---
 layout: default
 ---
-<article class="container mx-auto px-2 mt2 mb4">
+<article style="max-width:50em; margin-left: auto; margin-right: auto; padding-left: 16px; padding-right: 16px;">
   <header>
-    <h1 class="h0 py-4 mt-3">{{ page.title }}</h1>
+    <h1 style="font-size: 36px; font-weight: 500;">{{ page.title }}</h1>
   </header>
-  <div class="col-4 sm-width-full border-top-thin">
-  </div>
-  <br/>
-  <div class="prose mb-4 py-4">
+  <div class="prose">
     {{ content | replace: '<a href="http', '<a rel="nofollow noopener" target="_blank" href="http' }}
   </div>
 </article>
