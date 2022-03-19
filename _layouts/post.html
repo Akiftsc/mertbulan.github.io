@@ -7,7 +7,7 @@ layout: default
     {% include meta.html date=page.date content=page.content %}
   </div>
   <h1 style="font-size:36px; word-wrap:break-word; font-weight: 400; margin-top: 0" itemprop="name headline">{{ page.title }}</h1>
-  <div class="prose" itemprop="articleBody" style="text-align: justify;">
+  <div class="prose" itemprop="articleBody">
     {{ content | replace: '<a href="http', '<a rel="nofollow noopener" target="_blank" href="http' }}
   </div>
 
