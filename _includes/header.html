@@ -1,22 +1,20 @@
 <header>
-  <div style="margin-top: 32px;">
-    <ul class="font-smoothing" style="text-align: center;">
-      <li style="display: inline-block;">
-        {% if page.url == '/' %}
-          <a class="link-primary-active" href="{{ site.baseurl }}/">Home</a>
-        {% else %}
-          <a class="link-primary" href="{{ site.baseurl }}/">Home</a>
-        {% endif %}
-      </li>
-      {%- for my_page in site.pages -%}{% if my_page.title %}
-      <li style="display: inline-block;">
-        {% if my_page.title == page.title %}
-          <a class="link-primary-active" href="{{ my_page.url | relative_url }}" title="{{ my_page.title }}">{{ my_page.title }}</a>
-        {% else %}
-          <a class="link-primary" href="{{ my_page.url | relative_url }}" title="{{ my_page.title }}">{{ my_page.title }}</a>
-        {% endif %}
-      </li>
-      {%- endif -%}{% endfor %}
-    </ul>
-  </div>
+  <ul class="font-smoothing" style="text-align: center; margin-top: 32px;">
+    <li style="display: inline-block;">
+      {% if page.url == '/' %}
+        <a class="link-primary-active" href="{{ site.baseurl }}/">Home</a>
+      {% else %}
+        <a class="link-primary" href="{{ site.baseurl }}/">Home</a>
+      {% endif %}
+    </li>
+    {%- for my_page in site.pages -%}{% if my_page.title %}
+    <li style="display: inline-block;">
+      {% if my_page.title == page.title %}
+        <a class="link-primary-active" href="{{ my_page.url | relative_url }}" title="{{ my_page.title }}">{{ my_page.title }}</a>
+      {% else %}
+        <a class="link-primary" href="{{ my_page.url | relative_url }}" title="{{ my_page.title }}">{{ my_page.title }}</a>
+      {% endif %}
+    </li>
+    {%- endif -%}{% endfor %}
+  </ul>
 </header>

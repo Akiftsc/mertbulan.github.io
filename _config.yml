@@ -33,6 +33,8 @@ paginate: 50
 paginate_path: '/page/:num/'
 timezone: Europe/Berlin
 include: ["_categories"]
+sass:
+  style: compressed
 plugins:
   - jekyll-feed
   - jekyll-sitemap

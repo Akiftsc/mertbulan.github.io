@@ -1,22 +1,21 @@
 ---
-layout: page
+layout: default
 ---
 
 {% if page.category %}
   {% assign category = page.category %}
 {% endif %}
 
-<div style="max-width:50em; margin-left: auto; margin-right: auto;">
-  {% if category == 'posts' %}
-    <h3>Bests</h3>
-    {% for post in site.categories['bests'] %}
-      {% if post.category == 'bests' %}
-        {%- include post_block.html -%}
-      {% endif %}
-    {% endfor %}
-  <h3>Recents</h3>
-  {% endif %}
-  {% for post in site.categories[category] %}
-    {% include post_block.html %}
+<h1 style="font-size: 36px; font-weight: 500;">{{ page.title }}</h1>
+{% if category == 'posts' %}
+  <h3>Bests</h3>
+  {% for post in site.categories['bests'] %}
+    {% if post.category == 'bests' %}
+      {%- include post_block.html -%}
+    {% endif %}
   {% endfor %}
-</div>
+<h3>Recents</h3>
+{% endif %}
+{% for post in site.categories[category] %}
+  {% include post_block.html %}
+{% endfor %}

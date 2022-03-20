@@ -2,20 +2,15 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    <div>
-      {% include header.html %}
-      <div style="display: flex; justify-content: center; margin-top: 64px;" >
-        <div style="width: 350px; border-radius: 8px; background-color: #0C374D; padding: 16px; margin: 16px;">
-          {% capture my_include %}{% include_relative _about/about_me.md %}{% endcapture %}
-          {{ my_include | markdownify | replace: '<a href="http', '<a rel="nofollow noopener" target="_blank" href="http' }}
-        </div>
+    {% include header.html %}
+    <div class="font-smoothing center" style="width: 400px; margin-top: 64px; ">
+      <div class="box">
+        {% capture my_include %}{% include_relative _about/about_me.md %}{% endcapture %}
+        {{ my_include | markdownify | replace: '<a href="http', '<a rel="nofollow noopener" target="_blank" href="http' }}
       </div>
-
-      <div style="display: flex; justify-content: center;" >
-        <div class="font-smoothing" style="width: 350px; border-radius: 8px; background-color: #0C374D; padding: 16px; margin: 16px; font-family: Georgia;">
-          <p style="padding-bottom: 8px; padding-top: 8px;" id="quote"></p>
-          <p id="person" style="text-align: right;"></p>
-        </div>
+    <div class="box" style="font-family: Georgia; margin-top: 32px" >
+        <p style="padding-bottom: 8px; padding-top: 8px;" id="quote"></p>
+        <p id="person" style="text-align: right;"></p>
       </div>
     </div>
     <script>
