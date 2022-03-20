@@ -19,14 +19,14 @@
 {% endif %}
 
 {% if prev_post %}
-<div style="margin-top: 32px; margin-bottom: 32px; float: left;">
+<div style="margin-top: 32px; margin-bottom: 32px; float: left; padding-left: 8px;">
   <a class="link-primary" style="font-size: 18px; font-weight: 400;" href="{{ prev_post.url | relative_url }}">
     ← {{ prev_post.title }}
   </a>
 </div>
 {% endif %}
 {% if next_post %}
-<div style="margin-bottom: 32px; float: right;">
+<div style="margin-bottom: 32px; float: right; padding-right: 8px;">
   <a class="link-primary" style="font-size: 18px; font-weight: 400;" href="{{ next_post.url | relative_url }}">
     {{ next_post.title }} →
   </a>
