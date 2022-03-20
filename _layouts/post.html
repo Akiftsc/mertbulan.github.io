@@ -4,7 +4,7 @@ layout: default
 
 <article style="padding-left: 16px; padding-right: 16px;" itemscope itemtype="http://schema.org/BlogPosting">
   <div style="margin-top: 32px;">
-    {% include meta.html date=page.date content=page.content %}
+    {% include meta.html date=page.date content=page.content category=page.category stars=page.stars %}
   </div>
   <h1 style="font-size:36px; word-wrap:break-word; font-weight: 400; margin-top: 0" itemprop="name headline">{{ page.title }}</h1>
   <div class="prose" itemprop="articleBody">

@@ -10,4 +10,7 @@
       | {{ words | divided_by:360 }} mins
     {% endif %}
   </span>
+  {% if include.category == 'reviews' %}
+    <span>| {{ include.stars }}</span>
+  {% endif %}
 </div>

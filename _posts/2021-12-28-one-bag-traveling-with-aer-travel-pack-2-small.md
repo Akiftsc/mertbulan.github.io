@@ -3,6 +3,7 @@ title: One Bag Traveling with Aer Travel Pack 2 Small
 image: /uploads/aer-travel-pack-2-small.jpeg
 category: reviews
 date: 2021-12-28 14:02
+stars: ⭐️⭐️⭐️⭐️⭐️
 ---
 
 ![The items in my backpack](/uploads/aer-travel-pack-2-small.jpeg)

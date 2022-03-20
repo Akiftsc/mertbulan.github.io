@@ -1,5 +1,5 @@
 <div class="px-16">
-  {% include meta.html date=post.date content=post.content %}
+  {% include meta.html date=post.date content=post.content category=post.category stars=post.stars %}
   <h3 style="font-size: 24px; margin-top: 0;">
     <a class="link-primary" title="{{ post.title }}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
     {{ post.category_url }}
