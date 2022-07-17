@@ -1,6 +1,6 @@
 ---
 title: Using HelloFresh every week more than a year
-image: /uploads/hello-fresh-pepper.png
+image: /uploads/hello-fresh.jpg
 category: reviews
 date: 2022-07-17 18:33
 stars: ⭐️⭐️⭐️
