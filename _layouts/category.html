@@ -6,16 +6,18 @@ layout: default
   {% assign category = page.category %}
 {% endif %}
 
-<h1 style="font-size: 36px; font-weight: 500;">{{ page.title }}</h1>
-{% if category == 'posts' %}
-  <h3>Bests</h3>
-  {% for post in site.categories['bests'] %}
-    {% if post.category == 'bests' %}
-      {%- include post_block.html -%}
-    {% endif %}
+<div style="margin-bottom: 32px">
+  <h1 style="font-size: 36px; font-weight: 500;">{{ page.title }}</h1>
+  {% if category == 'posts' %}
+    <h3 style="margin-bottom: -8px;">Bests</h3>
+    {% for post in site.categories['bests'] %}
+      {% if post.category == 'bests' %}
+        {%- include post_block.html -%}
+      {% endif %}
+    {% endfor %}
+  <h3 style="margin-top: 24px; margin-bottom: -8px;">Recents</h3>
+  {% endif %}
+  {% for post in site.categories[category] %}
+    {% include post_block.html %}
   {% endfor %}
-<h3>Recents</h3>
-{% endif %}
-{% for post in site.categories[category] %}
-  {% include post_block.html %}
-{% endfor %}
+</div>

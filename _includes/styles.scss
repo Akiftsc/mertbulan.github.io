@@ -36,9 +36,9 @@ figure {
 body {
     font-family: -apple-system, Arial, sans-serif;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.6em;
     color: #f2f3f4;
-    background-color: #093145;
+    background-color: #161618;
     font-weight: 300;
 }
 p {
@@ -59,20 +59,21 @@ h6 {
 }
 h1,
 .h1 {
-    font-size: 40px;
+    font-size: 32px;
+    line-height: 1em;
 }
 h2,
 .h2 {
-    font-size: 32px;
+    font-size: 24px;
 }
 h3,
 .h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
 }
 h4,
 .h4 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
 }
 h5,
@@ -98,13 +99,13 @@ pre {
 code {
     font-size: 16px;
     padding: 1px 4px;
-    background-color: #107896;
+    background-color: #363636;
     color: #fff;
 }
 .prose p,
 .prose ol,
 .prose ul {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 1em;
     width: 100%;
     color: #f2f3f4;
@@ -121,9 +122,6 @@ code {
 }
 .prose ul li a {
     color: #e74727;
-}
-.prose li {
-    margin-bottom: 0.5em;
 }
 .prose li ul li,
 .prose li ol li {
@@ -191,15 +189,15 @@ code {
 .prose table th,
 .prose table td {
     padding: 8px 16px 8px 0;
-    border-top: 1px solid #0c374d;
-    border-bottom: 1px solid #0c374d;
+    border-top: 1px solid #202020;
+    border-bottom: 1px solid #202020;
 }
 .prose table tr {
-    border-top: 1px solid #0c374d;
+    border-top: 1px solid #202020;
 }
 .prose table tr th {
-    border-top: 2px solid #0c374d;
-    border-bottom: 2px solid #0c374d;
+    border-top: 2px solid #202020;
+    border-bottom: 2px solid #202020;
 }
 .link-primary {
     font-weight: 500;
@@ -207,17 +205,17 @@ code {
     padding: 6px;
 }
 .link-primary:hover {
-    background-color: #0c374d;
+    background-color: #202020;
     border-radius: 8px;
 }
 .link-primary-active {
     font-weight: 500;
-    background-color: #0c374d;
+    background-color: #202020;
     padding: 6px;
     border-radius: 8px;
 }
 .center {
-    max-width:50em; 
+    max-width: 700px; 
     margin-left: auto; 
     margin-right: auto;
     padding-left: 16px;
@@ -234,7 +232,7 @@ code {
 }
 .box {
    border-radius: 8px; 
-   background-color: #0C374D; 
+   background-color: #202020; 
    padding: 16px; 
    margin: 16px; 
 }
