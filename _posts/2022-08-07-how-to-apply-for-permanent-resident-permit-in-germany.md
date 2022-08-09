@@ -11,7 +11,7 @@ I received my permanent resident permit (Niederlassungserlaubnis) last month, an
 
 ## Requirements
 
-If you have a Blue Card, you can apply for the permanent resident permit in Germany after 21 months with B1 level Germany or after 33 months with A1 level German. I applied after 33 months. There are a few important things here: first, during those 33 months period, you should have paid for your health insurance and pension. Otherwise, you can't apply. You also have to finish your probation period at the company that you work. Let's say you worked at the same company for 33 months, and then you decided to switch your company. At that point, you can't apply for the settlement permit until you finish your probation period, and that's probably around 6 months. Once you finish your probation period, you can apply for it.
+If you have a Blue Card, you can apply for the permanent resident permit in Germany after 21 months with B1 level German or after 33 months with A1 level German. I applied after 33 months. There are a few important things here: first, during those 33 months period, you should have paid for your health insurance and pension. Otherwise, you can't apply. You also have to finish your probation period at the company that you work. Let's say you worked at the same company for 33 months, and then you decided to switch your company. At that point, you can't apply for the settlement permit until you finish your probation period, and that's probably around 6 months. Once you finish your probation period, you can apply for it.
 
 
 ## Appointment
