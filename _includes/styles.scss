@@ -121,7 +121,7 @@ code {
     padding-left: 40px;
 }
 .prose ul li a {
-    color: #e74727;
+    color: #efd469;
 }
 .prose li ul li,
 .prose li ol li {
@@ -191,6 +191,12 @@ code {
     padding: 8px 16px 8px 0;
     border-top: 1px solid #202020;
     border-bottom: 1px solid #202020;
+}
+.prose table td a {
+    color: #efd469;
+}
+.prose table td a:hover {
+    text-decoration: underline;
 }
 .prose table tr {
     border-top: 1px solid #202020;
